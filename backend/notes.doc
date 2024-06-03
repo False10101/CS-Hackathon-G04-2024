@@ -1,0 +1,6 @@
+CODES TO UNCOMMENT :
+
+index.mjs -> database import CODE
+contoller/login.mjs -> databse import CODE
+
+NEED TO CHANGE AUTH's DB QUERY CODE + DATA ARRAY FOR NEW DATABASE
